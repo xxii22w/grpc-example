@@ -37,5 +37,3 @@
 3. 客户端负载均衡简介
 4. 循环负载均衡
 5. 创建自定义负载均衡策略
-
-https://www.bytesizego.com/grpc-with-go
